@@ -1,4 +1,4 @@
-# ![Logo](src/assets/logo.png) acket For Roblox (A Script)
+# ![Logo](src/assets/logo.png) Packet For Roblox (A Script)
 
 ## ⚠️ **Warning**
 
